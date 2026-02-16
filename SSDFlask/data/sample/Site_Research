@@ -3,6 +3,12 @@
 ---
 
 ## 1. Collaborative Veto Page
+**Base Source** [Concurrent Majority](https://mises.org/mises-wire/calhouns-doctrine-concurrent-majority)
+
+  * **Concepts** It was designed to prevent the "tyranny of the majority" by allowing distinct interest groups or regions to have a formal "negative" (veto) on the actions of the government to ensure broad consensus.
+
+  * **Additional Source** [confederate constitution](https://avalon.law.yale.edu/19th_century/csa_csa.asp)
+
 **Target Interface:** ['CollaborativeVetoDeskopPage.png'](../../../docs/Founding/ScreenSequenceIMG/CollaberativeVetoDeskopPage.png) 
 **Objective:** Map federal and state hierarchies to simulate a localized, cascading veto mechanism.
 
@@ -23,6 +29,12 @@
 ---
 
 ## 2. Multi-choice Voting Page
+**Base Source** [Approval Votings](https://electionscience.org/education/approval-voting)
+
+  * **Concepts** It seeks to solve the mathematical flaws of "Plurality Voting" (where you only pick one), allowing for a more accurate reflection of the electorate's will without the complexity of ranking candidates.
+
+ * **Additional Source** [confederate constitution](https://avalon.law.yale.edu/19th_century/csa_csa.asp)
+
 **Target Interface:** [`MultipleChoiceVotingDesktopPage.png`](../../../docs/Founding/ScreenSequenceIMG/MultipleChoiceVotingDesktopPage.png) 
 **Objective:** Provide technical legitimacy for the UI's alternative voting interfaces.
 
@@ -40,6 +52,12 @@
 ---
 
 ## 3. Supreme Court Check Page
+**Base Source** [The Virginia and Kentucky Resolutions of 1798](https://firstamendment.mtsu.edu/article/virginia-and-kentucky-resolutions-of-1798/)
+
+  * **Concepts** Authored by Thomas Jefferson and James Madison, these resolutions argued that the Constitution was a "compact" between states. They proposed that states have the right to "interpose" or nullify federal acts (including court rulings) they deem unconstitutional.
+
+    * **Additional Source** [Virgina declaration of rights](https://www.archives.gov/founding-docs/virginia-declaration-of-rights)
+
 **Target Interface:** [`SupremeCourtCheckDesktopPage.png`](../../../docs/Founding/ScreenSequenceIMG/SupremeCourtCheckDesktopPage.png)
 **Objective:** Ground the 26-state override concept in established Constitutional frameworks.
 
@@ -61,6 +79,12 @@
 ---
 
 ## 4. Minimum Amount of Space Page
+**Base Source** [Georgism](https://progressandpovertyinstitute.org/the-basic-fundamentals-of-georgism/)
+
+  * **Concepts** George argued that while people should own the value they create, the land itself belongs to all of humanity. This concept also leans on Communitarianism and the historical "Homestead" ideals of providing a baseline of self-sufficiency through land.
+
+   * **Additional Source** [confederate constitution](https://avalon.law.yale.edu/19th_century/csa_csa.asp)
+
 **Target Interface:** [`MinimumAmountOfSpaceDesktop.png`](../../../docs/Founding/ScreenSequenceIMG/MinimumAmountOfSpaceDesktop.png)  
 **Objective:** Calculate and visualize spatial allocation using the mathematical formula.
 
